@@ -48,8 +48,9 @@ root/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/mern-chat-app.git
-cd mern-chat-app
+git clone https://github.com/ashwajit120603/fullstack-chat-app.git
+cd fullstack-chat-app
+
 
 2️⃣ Backend Setup
 
